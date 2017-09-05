@@ -584,12 +584,11 @@
 
         <div class="col-sm-12" style="text-align: center;">
              <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
-                   <h4 style="padding-top: 25px; color: #83bbe8">@hadassah</h4></a>
-                    <a href="https://twitter.com/tgnfi"><h5 style="padding-top: 25px">Join in the artful conversation and </h5>
-                    <hr/>
-                        <a class="twitter-timeline" href="https://twitter.com/tgnfi" data-tweet-limit="1">
+                   <h4 style="padding-top: 20px; color: #83bbe8">@hadassah</h4></a>
+                   
+                        <div style="height: 300px; overflow: scroll;"><a class="twitter-timeline" href="https://twitter.com/tgnfi" data-tweet-limit="4">
                         Tweets by @tgnfi
-                        </a> 
+                        </a> </div>
                     <hr/>
                   </div>
                 </div>
