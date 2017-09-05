@@ -8,14 +8,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Piddiesmart &amp;clothingline</title>
+<title>Haddasah &amp;Handmade</title>
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Favicon  -->
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/piddie/logo.png">
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/logo.png">
 
 <!-- CSS Style -->
 <link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
@@ -56,7 +56,7 @@
           <div class="row" >
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg fontwhite">Welcome to PiddieSmart Clothing Line </div>
+              <div class="welcome-msg fontwhite">Welcome to Haddasah Handmaid </div>
             </div>
             
             <!-- top links -->
@@ -75,7 +75,7 @@
         <div class="row">
           <div class="col-sm-4 col-md-3 col-xs-4"> 
             <!-- Header Logo -->
-            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/piddie/logo.png" width="70"></a> </div>
+            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/logo.png" width="200"></a> </div>
             <!-- End Header Logo --> 
           </div>
           <div class="col-md-9 col-sm-8 col-xs-8">
@@ -87,17 +87,7 @@
                     </a></div>
                   
                 </li>
-                <li class="mt-root demo_custom_link_cms">
-                  <div class="mt-root-item"><a href="clothingline">
-                    <div class="title title_font"><span class="title-text">Clothingline</span></div>
-                    </a></div>
-                  
-                </li>
-                <li class="mt-root">
-                  <div class="mt-root-item"><a href="cosmetic">
-                    <div class="title title_font"><span class="title-text">Cosmetic</span></div>
-                    </a></div>
-                </li>
+               
                 <li class="mt-root">
                   <div class="mt-root-item"><a href="sound">
                     <div class="title title_font"><span class="title-text">Sound</span> </div>
@@ -114,6 +104,8 @@
                     </a></div>
                 </li>
               </ul>
+              <hr/>
+              
             </div>
           </div>
         </div>
