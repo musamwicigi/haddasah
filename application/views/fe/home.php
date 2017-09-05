@@ -475,7 +475,7 @@
 
 
 
-        <div class="container">
+        <div>
            <div class="jtv-banner2"><a href="index.html#"><img src="<?php echo base_url();?>assets/images/slider/hadassah15.png" alt=""></a>         
           </div>
         </div>
@@ -485,8 +485,8 @@
 
 
 
-    <section class="blog_post">
-    <div class="container"> 
+    <section class="blog_post" style="background-color: #f9f6f0">
+    <div class="container "> 
       
     
        
@@ -494,19 +494,19 @@
         <div class="blog-wrapper col-md-8"">
        
              
-          <div class="home-tab col-md-4">
+          <div class="home-tab col-md-4" style="background-color: #f9f6f0" >
             <ul class="nav home-nav-tabs home-product-tabs">
              
               <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false"></a> </li>
             </ul>
           </div>
-          <div class="home-tab col-md-4" style="text-align: center;">
+          <div class="home-tab col-md-4" style="text-align: center;background-color: #f9f6f0">
             <ul class="nav">
               <li style="font-size: 20px;font-style: bold"></a> From the blog</li>
              
             </ul>
           </div>
-          <div class="home-tab col-md-4">
+          <div class="home-tab col-md-4" style="background-color: #f9f6f0">
             <ul class="nav home-nav-tabs home-product-tabs">
               
               <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false"></a> </li>
@@ -559,22 +559,22 @@
             </li>
         </div>
 
-         <div class="blog-wrapper col-md-4"">
+         <div class="blog-wrapper col-md-4" style="background-color: #f9f6f0">
        
              
-          <div class="home-tab col-md-3">
+          <div class="home-tab col-md-3" style="background-color: #f9f6f0">
             <ul class="nav home-nav-tabs home-product-tabs">
              
               <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false"></a> </li>
             </ul>
           </div>
-          <div class="home-tab col-md-6" style="text-align: center;">
+          <div class="home-tab col-md-6" style="text-align: center; background-color: #f9f6f0"">
             <ul class="nav">
               <li style="font-size: 20px;font-style: bold"></a> Latest tweet</li>
              
             </ul>
           </div>
-          <div class="home-tab col-md-3">
+          <div class="home-tab col-md-3" style="background-color: #f9f6f0">
             <ul class="nav home-nav-tabs home-product-tabs">
               
               <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false"></a> </li>
@@ -583,16 +583,14 @@
        
 
         <div class="col-sm-12" style="text-align: center;">
-                
-                     
-                   <div class="comment-count" style="height: 300px; overflow-y: auto;"> <i class="fa fa-twitter"></i>&nbsp; <a class="twitter-timeline" href="https://twitter.com/tgnfi">Tweets by tgnfi</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> </div>   
-                      
-                      <div class="entry-excerpt" style="padding:30px">@hadassah</div>
-                          <div class="entry-excerpt">Check out this great #hadassahhartful</div>
-                          <div class="entry-excerpt">join in the hadassahhartful and</div>
-                            <div class="entry-excerpt">you could win...</div>
-                      <div class="entry-more" style="padding-top:30px"> <a href="blog.html#" class="button">about 3 days ago &nbsp; <i class="fa fa-angle-double-right"></i></a> </div>
-                
+             <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+                   <h4 style="padding-top: 25px; color: #83bbe8">@hadassah</h4></a>
+                    <a href="https://twitter.com/tgnfi"><h5 style="padding-top: 25px">Join in the artful conversation and </h5>
+                    <hr/>
+                        <a class="twitter-timeline" href="https://twitter.com/tgnfi" data-tweet-limit="1">
+                        Tweets by @tgnfi
+                        </a> 
+                    <hr/>
                   </div>
                 </div>
 
@@ -600,6 +598,34 @@
    
     </div>
   </section>
+  <div class="footer-newsletter" style="background-color: #157ed2;padding-top: 20px">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-sm-5">
+            <h3><i class="fa fa-envelope fa-2x" aria-hidden="true" ></i> Sign up for newsletter</h3><br/><br/>
+            <span>Dont want to miss exiting offers</span>
+            </div>
+          <div class="col-md-4 col-sm-7">
+            <form id="newsletter-validate-detail" method="post" action="index.html#">
+              <div class="newsletter-inner">
+                <input class="newsletter-email" name='Email' placeholder='Enter Your Email'/>
+                
+              </div>
+            </form>
+          </div>
+            <div class="col-md-1 col-sm-12"><button style="float: right" class="button subscribe" type="submit" title="Subscribe">Subscribe</button></div>
+          <div class="col-md-3 col-sm-12">
+            <div class="social">
+              <ul class="inline-mode">
+                <li class="social-network fb"><a title="Connect us on Facebook" target="_blank" href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+                <li class="social-network tw"><a title="Connect us on Twitter" target="_blank" href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+                <li class="social-network instagram"><a title="Connect us on Instagram" target="_blank" href="https://instagram.com/"><i class="fa fa-instagram"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   
 
 
