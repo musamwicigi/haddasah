@@ -3,11 +3,11 @@
     
 
     <div class="container" style="padding-top: 60px;">
-      <div class="row">
+      <div class="row" style="text-align: left">
         <div class="col-sm-2">
           <div class="footer-links">
-            <h3 class="links-title colorwhite">Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
-            <hr/>
+            <h3 class="links-title colorwhite">Information<a class="expander visible-xs" href="#TabBlock-1"></a></h3>
+           
             <div class="tabBlock colorwhite" id="TabBlock-1">
               <ul class="list-links list-unstyled">
                 
@@ -25,8 +25,8 @@
         </div>
         <div class="col-sm-3">
           <div class="footer-links">
-            <h3 class="links-title colorwhite">My Account<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
-            <hr/>
+            <h3 class="links-title colorwhite">My Account<a class="expander visible-xs" href="#TabBlock-1"></a></h3>
+           
             <div class="tabBlock" id="TabBlock-3">
              <ul class="list-links list-unstyled">
                 
@@ -40,15 +40,15 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-4" style="text-align: left">
           <div class="footer-links">
-           <h3 class="links-title colorwhite">Contact Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
-            <hr/>
-            <div class="social">
+           <h3 class="links-title colorwhite">Contact Information<a class="expander visible-xs" href="#TabBlock-1"></a></h3>
+           
+            <div class="social" style="text-align: left">
             <p class="colorwhite"> Hadassah Handmades<br/>
             P.O Box 72 - 00100 GPO <br/>
             Nairobi Kenya</p>
-              <ul class="list-links list-unstyled">
+              <ul class="list-links list-unstyled" style="text-align: left">
                 
                 <li><i class="fa fa-phone"></i> +254 722 465 619 </span></li>
                 <li><i class="fa fa-envelope"></i> sales@hadassahhandmades.co.ke </span></li>
@@ -61,11 +61,11 @@
         </div>
          <div class="col-sm-3">
           <div class="footer-links">
-           <h3 class="links-title colorwhite">Create an Account<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
-            <hr/>
+           <h3 class="links-title colorwhite">Create an Account<a class="expander visible-xs" href="#TabBlock-1"></a></h3>
+           
             <div class="social">
             <h4 class="colorwhite"> <i class="fa fa-user"></i> Click here to add an Account</h4>
-              <ul class="list-links list-unstyled">
+              <ul class="list-links list-unstyled" style="text-align: left">
                 
                 <li> CREATE ACCOUNT NOW  <i class="fa fa-arrow-right"></i> </span></li>
               </ul>
@@ -73,7 +73,7 @@
                 <h4 class="colorwhite"> <i class="fa fa-user"></i> Gift Cards</h4>
                 <p class="colorwhite"> <i class="fa fa-user"></i> Care enough to give the best?</p>
                   
-                <ul>
+                <ul style="text-align: left">
                   <li><i class="fa fa-gift fa-2x"></i> Gift them up </span></li>
             
                 

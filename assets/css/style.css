@@ -80,11 +80,11 @@
 body {
 	background: #FFFFFF;
 	color: #333333;
-	font-family: 'Poppins', Arial, Helvetica, sans-serif;
+	font-family: 'Century Gothic', Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	font-weight: 400;
 	line-height: 20px;
-	text-align: left;
+	text-align: center;
 	letter-spacing: 0.8px;
 }
 /* Poppins font*/
@@ -1033,7 +1033,7 @@ header .logo a img {
 .mini-cart .basket a .fa-shopping-cart:before {
 	font-size: 16px;
 	margin-right: 12px;
-	background: #1267b3;
+	background: #d71c5f;
 	padding: 15px;
 	color: #fff;
 	border-radius: 100px
@@ -1190,7 +1190,7 @@ ul#cart-sidebar {
 	padding-right: 8px
 }
 .mini-cart .actions .btn-checkout {
-	background: #1267b3;
+	background: #d71c5f;
 	color: #fff;
 	padding: 8px 15px;
 	border: none;
@@ -3005,7 +3005,7 @@ footer .social ul {
 @media (max-width:640px) {
 .social ul {
 	float: none;
-	text-align: left;
+	text-align: center;
 	margin-top: 15px;
 }
 }
@@ -3103,7 +3103,7 @@ nav {
 	position: relative;
 	margin: auto;
 	width: 100%;
-	background: #1267b3;
+	background: #d71c5f;
 }
 nav a {
 	color: #333333

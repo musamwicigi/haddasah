@@ -56,7 +56,7 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <div class="header-top" style="background-color: #ff5c00">
+      <div class="header-top" style="background-color: #d71c5f">
         <div class="container">
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 

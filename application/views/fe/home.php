@@ -604,7 +604,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-5">
-            <h3><i class="fa fa-envelope fa-2x" aria-hidden="true" ></i> Sign up for newsletter</h3><br/><br/>
+            <h2><i class="fa fa-envelope" aria-hidden="true" ></i> Sign up for newsletter</h2>
             <span>Dont want to miss exiting offers</span>
             </div>
           <div class="col-md-4 col-sm-7">
@@ -615,7 +615,7 @@
               </div>
             </form>
           </div>
-            <div class="col-md-1 col-sm-12"><button style="float: right" class="button subscribe" type="submit" title="Subscribe">Subscribe</button></div>
+            <div class="col-md-1 col-sm-12"><button style="float: center" class="button subscribe" type="submit" title="Subscribe">Subscribe</button></div>
           <div class="col-md-3 col-sm-12">
             <div class="social">
               <ul class="inline-mode">
@@ -628,6 +628,7 @@
         </div>
       </div>
     </div>
+    </section>
   
 
 
