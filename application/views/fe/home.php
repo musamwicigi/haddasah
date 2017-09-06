@@ -1,3 +1,6 @@
+
+
+
 <div class="main-slideshow">
     <div class="home-slider" style="background-color:#c2d535">
       <div class="wpb_wrapper">
