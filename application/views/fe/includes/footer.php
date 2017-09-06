@@ -1,42 +1,83 @@
 
-  <footer> 
+  <footer style="color: white"> 
     
 
-    <div class="container" style="padding-top: 60px;text-align: center;">
+    <div class="container" style="padding-top: 60px;">
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col-sm-2">
           <div class="footer-links">
-            <h3 class="links-title">Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
-            <div class="tabBlock" id="TabBlock-1">
+            <h3 class="links-title colorwhite">Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
+            <hr/>
+            <div class="tabBlock colorwhite" id="TabBlock-1">
               <ul class="list-links list-unstyled">
                 
-                <li><a href="#">Terms &amp; Condition</a></li>
+                <li><a href="#"><span class="colorwhite" > Home Page </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Women </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Men </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Kids </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Other Crafts </span></a></li>
+                <li><a href="#"><span class="colorwhite" > About Us </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Blog </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Contact Us </span></a></li>
               </ul>
             </div>
           </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-3">
           <div class="footer-links">
-            <h3 class="links-title">Insider<a class="expander visible-xs" href="#TabBlock-3">+</a></h3>
+            <h3 class="links-title colorwhite">My Account<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
+            <hr/>
             <div class="tabBlock" id="TabBlock-3">
-              <ul class="list-links list-unstyled">
-                <li> <a href="sitemap.html">Sites Map </a> </li>
+             <ul class="list-links list-unstyled">
+                
+                <li><a href="#"><span class="colorwhite" > My Account </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Order History </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Create an Account </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Vender Contact </span></a></li>
+                <li><a href="#"><span class="colorwhite" > Virtuemart categories </span></a></li>
                 
               </ul>
             </div>
           </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-3">
           <div class="footer-links">
-          <h3 class="links-title">Social Media</h3>
-            
+           <h3 class="links-title colorwhite">Contact Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
+            <hr/>
             <div class="social">
-              <ul class="inline-mode">
-                <li class="social-network fb"><a title="Connect us on Facebook" target="_blank" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+            <p class="colorwhite"> Hadassah Handmades<br/>
+            P.O Box 72 - 00100 GPO <br/>
+            Nairobi Kenya</p>
+              <ul class="list-links list-unstyled">
                 
-                <li class="social-network tw"><a title="Connect us on Twitter" target="_blank" href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+                <li><i class="fa fa-phone"></i> +254 722 465 619 </span></li>
+                <li><i class="fa fa-envelope"></i> sales@hadassahhandmades.co.ke </span></li>
+                <li><i class="fa fa-wifi"></i> www.hadassahhandmades </span></li>
                 
-                <li class="social-network rss"><a title="Connect us on Instagram" target="_blank" href="https://instagram.com/"><i class="fa fa-rss"></i></a></li>
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+         <div class="col-sm-3">
+          <div class="footer-links">
+           <h3 class="links-title colorwhite">Create an Account<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
+            <hr/>
+            <div class="social">
+            <h4 class="colorwhite"> <i class="fa fa-user"></i> Click here to add an Account</h4>
+              <ul class="list-links list-unstyled">
+                
+                <li> CREATE ACCOUNT NOW  <i class="fa fa-arrow-right"></i> </span></li>
+              </ul>
+
+                <h4 class="colorwhite"> <i class="fa fa-user"></i> Gift Cards</h4>
+                <p class="colorwhite"> <i class="fa fa-user"></i> Care enough to give the best?</p>
+                  
+                <ul>
+                  <li><i class="fa fa-gift fa-2x"></i> Gift them up </span></li>
+            
+                
+                
               </ul>
             </div>
           </div>
@@ -45,20 +86,11 @@
         
       </div>
     </div>
-    <div class="footer-coppyright">
+    <div class="footer-coppyright" >
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © <?php echo date('Y'); ?> <a href="#"> PiddieSmart </a>. All Rights Reserved. </div>
-          <div class="col-sm-6 col-xs-12">
-            <div class="payment">
-              <ul>
-                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/images/visa.png"></a></li>
-                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/images/paypal.png"></a></li>
-                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/images/discover.png"></a></li>
-                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/images/master-card.png"></a></li>
-              </ul>
-            </div>
-          </div>
+          <div class="col-sm-12 col-xs-12 coppyright" style="text-align: center;"> Copyright © <?php echo date('Y'); ?> <a href="#"><span style="color: #ff5c00"> Hadassah Handmade </span> </a>. All Rights Reserved. </div>
+          
         </div>
       </div>
     </div>
@@ -69,10 +101,7 @@
   
 </div>
 
-<!-- JS -- 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/general.js"></script>
-   
-<!-- jquery js --> 
+
 <script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.min.js"></script> 
 
 <!-- bootstrap js --> 
