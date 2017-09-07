@@ -7913,3 +7913,13 @@ to {
 .colorwhite{
 	color: white;
 }
+	
+.circle{
+	font-size: 16px;
+    margin-right: 2px;
+    background: #1267b3;
+    padding: 10px;
+    color: #fff;
+    border-radius: 50px;
+	}
+	
