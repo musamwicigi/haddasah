@@ -951,7 +951,7 @@ header .logo a img {
 	transform: scaleY(1);
 }
 .top-cart {
-	padding-left: 0px;
+	padding-left: 17px;
 	float: right;
 }
 .mini-products-list .product-image {
@@ -1027,13 +1027,14 @@ header .logo a img {
 	color: #666;
 }
 .cart-icon, .shoppingcart-inner {
-	float: left;
-	text-align: left;
+	
+	
+	padding-top: 10px
 }
 .mini-cart .basket a .fa-shopping-cart:before {
 	font-size: 16px;
 	margin-right: 12px;
-	background: #d71c5f;
+	background: #1267b3;
 	padding: 15px;
 	color: #fff;
 	border-radius: 100px
@@ -1190,7 +1191,7 @@ ul#cart-sidebar {
 	padding-right: 8px
 }
 .mini-cart .actions .btn-checkout {
-	background: #d71c5f;
+	background: #1267b3;
 	color: #fff;
 	padding: 8px 15px;
 	border: none;

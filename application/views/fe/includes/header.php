@@ -56,7 +56,7 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <div class="header-top" style="background-color: #d71c5f">
+      <div class="header-top">
         <div class="container">
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
@@ -67,19 +67,24 @@
             <!-- top links -->
             <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-8 col-xs-12">
               <div class="links">
-                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">facebook</span></a></div>
-                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">twitter</span></a></div>
-                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram"></i><span class="hidden-xs">instagram </span></a></div>
+              
+               <div class="item-cur"> <i class="fa fa-unlock-alt"></i> <span>Login </span> </div>
+                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-user"></i><span class="hidden-xs">User Account</span></a></div>
+                
                 
               </div>
               <div class="language-currency-wrapper">
                 <div class="inner-cl">
                   <div class="block block-language form-language" style="text-align: center;">
-                    <div class="lg-cur"> <span> <img src="images/flag-default.jpg" alt="Account"> <span class="lg-fr"> Account </span> <i class="fa fa-user"></i> </span> </div>
+                    <div class="lg-cur"> <span> <span class="lg-fr"></span> <i class="fa fa-facebook"></i> </span> </div>
                     
                   </div>
                   <div class="block block-currency" style="text-align: center;">
-                    <div class="item-cur"> <span>Login </span> <i class="fa fa-unlock-alt"></i></div>
+                    <div class="item-cur"> <span></span> <i class="fa fa-twitter"></i></div>
+                    
+                  </div>
+                  <div class="block block-currency" style="text-align: center;">
+                    <div class="item-cur"> <span></span> <i class="fa fa-instagram"></i></div>
                     
                   </div>
                 </div>
@@ -131,24 +136,8 @@
                     </a>
                   </div>
                   </li>
-                   <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">About Us</span></div>
-                    </a>
-                  </div>
-                  </li>
-                   <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">Blog</span></div>
-                    </a>
-                  </div>
-                  </li>
-                  <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">Contacts</span></div>
-                    </a>
-                  </div>
-                  </li>
+                  
+
                 </ul>
                  
               <!-- top cart -->
@@ -189,7 +178,7 @@
                   </div>
                 </div>
               </div>
-              <hr/>
+          
             </div>
           </div>
         </div>

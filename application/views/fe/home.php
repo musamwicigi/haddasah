@@ -603,11 +603,11 @@
   <div class="footer-newsletter" style="background-color: #157ed2;padding-top: 20px">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-5">
+          <div class="col-md-4">
             <h2><i class="fa fa-envelope" aria-hidden="true" ></i> Sign up for newsletter</h2>
             <span>Dont want to miss exiting offers</span>
             </div>
-          <div class="col-md-4 col-sm-7">
+          <div class="col-md-4">
             <form id="newsletter-validate-detail" method="post" action="index.html#">
               <div class="newsletter-inner">
                 <input class="newsletter-email" name='Email' placeholder='Enter Your Email'/>
@@ -615,8 +615,8 @@
               </div>
             </form>
           </div>
-            <div class="col-md-1 col-sm-12"><button style="float: center" class="button subscribe" type="submit" title="Subscribe">Subscribe</button></div>
-          <div class="col-md-3 col-sm-12">
+            <div class="col-md-1 "><button style="float: center" class="button subscribe" type="submit" title="Subscribe">Subscribe</button></div>
+          <div class="col-md-3">
             <div class="social">
               <ul class="inline-mode">
                 <li class="social-network fb"><a title="Connect us on Facebook" target="_blank" href="https://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
