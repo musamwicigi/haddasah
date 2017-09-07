@@ -16,9 +16,9 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/quick_view';
 		$this->load->view('fe/includes/template',$data);
 	}
-	function popup(){
+	function shop(){
 	
-		$data['main_content'] = 'fe/popup';
+		$data['main_content'] = 'fe/shop';
 		$this->load->view('fe/includes/template',$data);
 	}
 	function about(){

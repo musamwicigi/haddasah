@@ -277,7 +277,7 @@
   </div>
   <ul class="mobile-menu" style="text-align:left;" >
     <li><a href="#">Home</a></li>
-    <li><a href="#">Women</a></li>
+    <li><a href="shop">shop</a></li>
     <li><a href="#">Men</a></li>
     <li><a href="#">Kids</a></li>
     <li><a href="#">Other Crafts</a></li>
@@ -306,8 +306,8 @@
                 </li>
                
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="#">
-                    <div class="title title_font"><span class="title-text" style="color: white">Women</span></div>
+                  <div class="mt-root-item"><a href="shop">
+                    <div class="title title_font"><span class="title-text" style="color: white">Shop</span></div>
                     </a>
                   </div>
                   </li>
