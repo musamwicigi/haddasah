@@ -2975,7 +2975,7 @@ button.subscribe:before {
 }
 .social .fb a:hover, .social .tw a:hover, .social .googleplus a:hover, .social .rss a:hover, .social .instagram a:hover, .social .linkedin a:hover {
 	background: #1267b3;
-	padding: 0px;
+	padding: 10px;
 	color: #fff;
 }
 .social .fb a {
@@ -3650,7 +3650,8 @@ html {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
-	box-sizing: border-box
+	box-sizing: border-box;
+	text-align:left;
 }
 .mobile-menu ul {
 	margin-left: 0;

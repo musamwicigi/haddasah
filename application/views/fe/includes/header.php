@@ -44,44 +44,44 @@
               </div>
               <div class="mega-menu-category">
                 <ul class="nav">
-                  <li> <a href="index.html#"><i class="icon fa fa-female fa-fw"></i> Women</a>
+                  <li> <a href="#"><i class="icon fa fa-female fa-fw"></i> Women</a>
                     <div class="wrap-popup">
                       <div class="popup">
                         <div class="row">
                           <div class="col-md-4 col-sm-6">
                             <h3>Clother</h3>
                             <ul class="nav">
-                              <li><a href="shop_grid.html">Cocktail</a></li>
-                              <li><a href="shop_grid.html">Day</a></li>
-                              <li><a href="shop_grid.html">Evening</a></li>
-                              <li><a href="shop_grid.html">Sports</a></li>
+                              <li><a href="#">Cocktail</a></li>
+                              <li><a href="#">Day</a></li>
+                              <li><a href="#">Evening</a></li>
+                              <li><a href="#">Sports</a></li>
                             </ul>
                             <br>
                             <h3>Dress and skirt</h3>
                             <ul class="nav">
-                              <li><a href="shop_grid.html">blazers</a></li>
-                              <li><a href="shop_grid.html">table</a></li>
-                              <li><a href="shop_grid.html">coats</a></li>
-                              <li><a href="shop_grid.html">Sports</a></li>
-                              <li><a href="shop_grid.html">kids</a></li>
+                              <li><a href="#">blazers</a></li>
+                              <li><a href="#">table</a></li>
+                              <li><a href="#">coats</a></li>
+                              <li><a href="#">Sports</a></li>
+                              <li><a href="#">kids</a></li>
                             </ul>
                           </div>
                           <div class="col-md-4 col-sm-6 has-sep">
                             <h3>Shoes</h3>
                             <ul class="nav">
-                              <li> <a href="shop_grid.html">Tandoor & Grills</a> </li>
-                              <li> <a href="shop_grid.html">Baking Tools</a> </li>
-                              <li> <a href="shop_grid.html">Retina Display </a> </li>
-                              <li> <a href="shop_grid.html">Washers</a> </li>
+                              <li> <a href="#">Tandoor & Grills</a> </li>
+                              <li> <a href="#">Baking Tools</a> </li>
+                              <li> <a href="#">Retina Display </a> </li>
+                              <li> <a href="#">Washers</a> </li>
                             </ul>
                             <br>
                             <h3>Jewellery </h3>
                             <ul class="nav">
-                              <li> <a href="shop_grid.html">Toasters</a> </li>
-                              <li> <a href="shop_grid.html">Water Purifiers</a> </li>
-                              <li> <a href="shop_grid.html">Glasses</a> </li>
-                              <li> <a href="shop_grid.html">Lunch Boxes</a> </li>
-                              <li> <a href="shop_grid.html">Knives</a> </li>
+                              <li> <a href="#">Toasters</a> </li>
+                              <li> <a href="#">Water Purifiers</a> </li>
+                              <li> <a href="#">Glasses</a> </li>
+                              <li> <a href="#">Lunch Boxes</a> </li>
+                              <li> <a href="#">Knives</a> </li>
                             </ul>
                           </div>
                           <div class="col-md-4 has-sep hidden-sm">
@@ -91,14 +91,14 @@
                                   <h3>New Jeans<br>
                                     collection </h3>
                                   <div class="price-sale">2016</div>
-                                  <a href="index.html#">Shop Now</a> </div>
+                                  <a href="#">Shop Now</a> </div>
                                 <div class="add-right"><img src="images/menu-img1.jpg" alt=""></div>
                               </div>
                               <div class="box-banner media">
                                 <div class="add-desc">
                                   <h3>Save up to</h3>
                                   <div class="price-sale">70 <sup>%</sup><sub>off</sub></div>
-                                  <a href="index.html#">Shopping Now</a> </div>
+                                  <a href="#">Shopping Now</a> </div>
                                 <div class="add-right"><img src="images/menu-img2.jpg" alt=""></div>
                               </div>
                             </div>
@@ -107,40 +107,40 @@
                       </div>
                     </div>
                   </li>
-                  <li> <a href="index.html#"><i class="icon fa fa-male fa-fw"></i> Men</a>
+                  <li> <a href="#"><i class="icon fa fa-male fa-fw"></i> Men</a>
                     <div class="wrap-popup">
                       <div class="popup">
                         <div class="row">
                           <div class="col-md-4 col-sm-6">
                             <ul class="nav">
-                              <li><a href="shop_grid.html"><span>Sofas & Couches</span></a></li>
-                              <li><a href="shop_grid.html"><span>Study Tables</span></a></li>
-                              <li><a href="shop_grid.html"><span>Bean Bags</span> </a></li>
-                              <li><a href="shop_grid.html"><span>Bedside Tables</span> </a></li>
-                              <li> <a href="shop_grid.html"><span>Sofa cum Beds</span></a></li>
-                              <li><a href="shop_grid.html"><span>Bookshelves </span></a></li>
-                              <li><a href="shop_grid.html"><span>T.V. & Entertainment Units</span></a></li>
-                              <li><a href="shop_grid.html"><span>Center Tables </span></a></li>
-                              <li><a href="shop_grid.html"><span>Cabinets</span></a></li>
+                              <li><a href="#"><span>Sofas & Couches</span></a></li>
+                              <li><a href="#"><span>Study Tables</span></a></li>
+                              <li><a href="#"><span>Bean Bags</span> </a></li>
+                              <li><a href="#"><span>Bedside Tables</span> </a></li>
+                              <li><a href="#"><span>Sofa cum Beds</span></a></li>
+                              <li><a href="#"><span>Bookshelves </span></a></li>
+                              <li><a href="#"><span>T.V. & Entertainment Units</span></a></li>
+                              <li><a href="#"><span>Center Tables </span></a></li>
+                              <li><a href="#"><span>Cabinets</span></a></li>
                             </ul>
                           </div>
                           <div class="col-md-4 col-sm-6 has-sep">
                             <ul class="nav">
-                              <li><a href="shop_grid.html"><span>Partitions</span></a></li>
-                              <li><a href="shop_grid.html"><span>High-speed</span></a></li>
-                              <li><a href="shop_grid.html"><span>Bean Bags </span> </a></li>
-                              <li><a href="shop_grid.html"><span>Covers & Refills</span> </a></li>
-                              <li> <a href="shop_grid.html"><span>Footstools</span></a></li>
-                              <li><a href="shop_grid.html"><span>Inflatable Sofas</span></a></li>
-                              <li><a href="shop_grid.html"><span>Ottomans</span></a></li>
-                              <li><a href="shop_grid.html"><span>Cabinets</span></a></li>
-                              <li><a href="shop_grid.html"><span>Wall Shelves</span></a></li>
+                              <li><a href="#"><span>Partitions</span></a></li>
+                              <li><a href="#"><span>High-speed</span></a></li>
+                              <li><a href="#"><span>Bean Bags </span> </a></li>
+                              <li><a href="#"><span>Covers & Refills</span> </a></li>
+                              <li><a href="#"><span>Footstools</span></a></li>
+                              <li><a href="#"><span>Inflatable Sofas</span></a></li>
+                              <li><a href="#"><span>Ottomans</span></a></li>
+                              <li><a href="#"><span>Cabinets</span></a></li>
+                              <li><a href="#"><span>Wall Shelves</span></a></li>
                             </ul>
                           </div>
                           <div class="col-md-4 has-sep hidden-sm">
                             <div class="custom-menu-right">
                               <div class="box-banner menu-banner">
-                                <div class="add-right"><a href="index.html#"><img src="images/menu-img4.jpg" alt=""></a></div>
+                                <div class="add-right"><a href="#"><img src="images/menu-img4.jpg" alt=""></a></div>
                               </div>
                             </div>
                           </div>
@@ -148,66 +148,66 @@
                       </div>
                     </div>
                   </li>
-                  <li class="nosub"><a href="index.html#"><i class="icon fa fa-camera fa-fw"></i> Electronics</a></li>
-                  <li> <a href="shop_grid.html"><i class="icon fa fa-linux fa-fw"></i> Kids</a>
+                  <li class="nosub"><a href="#"><i class="icon fa fa-camera fa-fw"></i> Electronics</a></li>
+                  <li> <a href="#"><i class="icon fa fa-linux fa-fw"></i> Kids</a>
                     <div class="wrap-popup column2">
                       <div class="popup">
                         <div class="row">
                           <div class="col-sm-6">
                             <h3>Furniture</h3>
                             <ul class="nav">
-                              <li> <a href="shop_grid.html"> Kids' Beds </a> </li>
+                              <li> <a href="#"> Kids' Beds </a> </li>
                               <li> <a href="http://htmlsmart.justthemevalley.com/version2/shop_grid.htmls"> Wall Stickers </a> </li>
-                              <li> <a href="shop_grid.html"> Humidifiers </a> </li>
-                              <li> <a href="shop_grid.html"> Indoor Lighting </a> </li>
+                              <li> <a href="#"> Humidifiers </a> </li>
+                              <li> <a href="#"> Indoor Lighting </a> </li>
                             </ul>
                           </div>
                           <div class="col-sm-6 has-sep">
                             <h3> New arrivals </h3>
                             <ul class="nav">
-                              <li> <a href="shop_grid.html"> Art Prints </a> </li>
-                              <li> <a href="shop_grid.html"> Posters</a> </li>
-                              <li> <a href="shop_grid.html"> Paintings </a> </li>
-                              <li> <a href="shop_grid.html"> Drawings </a> </li>
+                              <li> <a href="#"> Art Prints </a> </li>
+                              <li> <a href="#"> Posters</a> </li>
+                              <li> <a href="#"> Paintings </a> </li>
+                              <li> <a href="#"> Drawings </a> </li>
                             </ul>
                           </div>
-                          <div class="col-sm-12"> <a class="ads1" href="index.html#"><img class="img-responsive" src="images/menu-img3.jpg" alt=""></a> </div>
+                          <div class="col-sm-12"> <a class="ads1" href="#"><img class="img-responsive" src="images/menu-img3.jpg" alt=""></a> </div>
                         </div>
                       </div>
                     </div>
                   </li>
-                  <li> <a href="shop_grid.html"><i class="icon fa fa-heart fa-fw"></i> Fashion</a>
+                  <li> <a href="#"><i class="icon fa fa-heart fa-fw"></i> Fashion</a>
                     <div class="wrap-popup column1">
                       <div class="popup">
                         <ul class="nav">
-                          <li><a href="shop_grid.html"><span>Frying Pans</span></a></li>
-                          <li><a href="shop_grid.html"><span>Dinner Sets</span></a></li>
-                          <li><a href="shop_grid.html"><span>Baking Tools</span></a></li>
-                          <li><a href="shop_grid.html"><span>Spatulas</span></a></li>
-                          <li><a href="shop_grid.html"><span>Gas Stoves</span></a></li>
-                          <li><a href="shop_grid.html"><span>Glasses</span></a></li>
-                          <li><a href="shop_grid.html"><span>Racks & Holders</span></a></li>
-                          <li><a href="shop_grid.html"><span>Knives</span></a></li>
-                          <li><a href="shop_grid.html"><span>Tableware</span></a></li>
-                          <li><a href="shop_grid.html"><span>Kitchen Tools</span></a></li>
+                          <li><a href="#"><span>Frying Pans</span></a></li>
+                          <li><a href="#"><span>Dinner Sets</span></a></li>
+                          <li><a href="#"><span>Baking Tools</span></a></li>
+                          <li><a href="#"><span>Spatulas</span></a></li>
+                          <li><a href="#"><span>Gas Stoves</span></a></li>
+                          <li><a href="#"><span>Glasses</span></a></li>
+                          <li><a href="#"><span>Racks & Holders</span></a></li>
+                          <li><a href="#"><span>Knives</span></a></li>
+                          <li><a href="#"><span>Tableware</span></a></li>
+                          <li><a href="#"><span>Kitchen Tools</span></a></li>
                         </ul>
                       </div>
                     </div>
                   </li>
-                  <li><a href="index.html#"><i class="icon fa fa-codepen fa-fw"></i> Accessories</a>
+                  <li><a href="#"><i class="icon fa fa-codepen fa-fw"></i> Accessories</a>
                     <div class="wrap-popup column1">
                       <div class="popup">
                         <ul class="nav">
-                          <li> <a href="shop_grid.html"> Super Pillow </a> </li>
-                          <li> <a href="shop_grid.html"> Hodak Chair</a> </li>
-                          <li> <a href="shop_grid.html"> Pendant Light </a> </li>
-                          <li> <a href="shop_grid.html"> Shoe Saver </a> </li>
+                          <li> <a href="#"> Super Pillow </a> </li>
+                          <li> <a href="#"> Hodak Chair</a> </li>
+                          <li> <a href="#"> Pendant Light </a> </li>
+                          <li> <a href="#"> Shoe Saver </a> </li>
                         </ul>
                       </div>
                     </div>
                   </li>
-                  <li class="nosub"><a href="shop_grid.html"><i class="icon fa fa-shopping-basket fa-fw"></i> Trends</a></li>
-                  <li class="nosub"><a href="shop_grid.html"><i class="icon fa fa-lightbulb-o fa-fw"></i> Lightings</a></li>
+                  <li class="nosub"><a href="#"><i class="icon fa fa-shopping-basket fa-fw"></i> Trends</a></li>
+                  <li class="nosub"><a href="#"><i class="icon fa fa-lightbulb-o fa-fw"></i> Lightings</a></li>
                 </ul>
               </div>
             </div>
@@ -275,15 +275,15 @@
       </div>
     </form>
   </div>
-  <ul>
-    <li><a href="index.html" class="home1">Home</a></li>
-    <li><a href="shop_grid.html">Women</a></li>
-    <li><a href="contact_us.html">Men</a></li>
-    <li><a href="about_us.html">Kids</a></li>
-    <li><a href="blog.html">Other Crafts</a></li>
-    <li><a href="index.html">About US</a></li>
-    <li><a href="shop_grid.html">Blog</a></li>
-    <li><a href="contact_us.html">Contact us</a></li>
+  <ul class="mobile-menu" style="text-align:left;" >
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Women</a></li>
+    <li><a href="#">Men</a></li>
+    <li><a href="#">Kids</a></li>
+    <li><a href="#">Other Crafts</a></li>
+    <li><a href="#">About US</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Contact us</a></li>
   </ul>  
 </div>
 
@@ -299,32 +299,32 @@
             <div class="mtmegamenu">
               <ul class="hidden-xs">
                 <li class="mt-root demo_custom_link_cms">
-                  <div class="mt-root-item"><a href="index.html">
+                  <div class="mt-root-item"><a href="#">
                     <div class="title title_font"><span class="title-text" style="color: white">Home</span></div>
                     </a></div>
                   
                 </li>
                
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
+                  <div class="mt-root-item"><a href="#">
                     <div class="title title_font"><span class="title-text" style="color: white">Women</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
+                  <div class="mt-root-item"><a href="#">
                     <div class="title title_font"><span class="title-text" style="color: white">Men</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
+                  <div class="mt-root-item"><a href="#">
                     <div class="title title_font"><span class="title-text" style="color: white">Kids</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="index.html#">
+                  <div class="mt-root-item"><a href="#">
                     <div class="title title_font"><span class="title-text" style="color: white">Other Crafts</span></div>
                     </a>
                   </div>
@@ -337,7 +337,7 @@
               <div class="col-md-3 col-xs-9 col-sm-2 top-cart" style="text-align: center;">
                 <div class="top-cart-contain">
                   <div class="mini-cart">
-                    <div data-toggle="dropdown" data-hover="dropdown" class="basket dropdown-toggle"> <a href="index.html#">
+                    <div data-toggle="dropdown" data-hover="dropdown" class="basket dropdown-toggle"> <a href="#">
                       <div class="cart-icon"><i class="fa fa-shopping-cart" style="padding:10px;"></i></div>
                       <div class="shoppingcart-inner hidden-xs hidden-sm"><span class="cart-title" style="color: white">Shopping Cart</span> <span class="cart-total" style="color: white">3 Item(s): Kes 5200.00</span></div>
                       </a></div>
@@ -345,19 +345,19 @@
                       <div class="top-cart-content">
                         <div class="block-subtitle hidden-xs">Recently added item(s)</div>
                         <ul id="cart-sidebar" class="mini-products-list">
-                          <li class="item odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt="Lorem ipsum dolor" width="65"></a>
-                            <div class="product-details"> <a href="index.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
-                              <p class="product-name"><a href="shopping_cart.html">Hand made necklace</a> </p>
+                          <li class="item odd"> <a href="#" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt="Lorem ipsum dolor" width="65"></a>
+                            <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
+                              <p class="product-name"><a href="#">Hand made necklace</a> </p>
                               <strong>4</strong> x <span class="price">Kes 80.00</span> </div>
                           </li>
-                          <li class="item even"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product3.jpg" alt="Lorem ipsum dolor" width="65"></a>
-                            <div class="product-details"> <a href="index.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
-                               <p class="product-name"><a href="shopping_cart.html">Hand made necklace</a> </p>
+                          <li class="item even"> <a href="#" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product3.jpg" alt="Lorem ipsum dolor" width="65"></a>
+                            <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
+                               <p class="product-name"><a href="#">Hand made necklace</a> </p>
                               <strong>4</strong> x <span class="price">Kes 80.00</span> </div>
                           </li>
-                          <li class="item last odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product4.jpg" alt="Lorem ipsum dolor" width="65"></a>
-                            <div class="product-details"> <a href="index.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
-                               <p class="product-name"><a href="shopping_cart.html">Hand made necklace</a> </p>
+                          <li class="item last odd"> <a href="#" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product4.jpg" alt="Lorem ipsum dolor" width="65"></a>
+                            <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
+                               <p class="product-name"><a href="#">Hand made necklace</a> </p>
                               <strong>4</strong> x <span class="price">Kes 80.00</span> </div>
                           </li>
                         </ul>
