@@ -61,7 +61,7 @@
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg ">Hadassah Handmaid </div>
+              <div class="welcome-msg "></div>
             </div>
             
             <!-- top links -->
@@ -95,11 +95,11 @@
           </div>
         </div>
       </div>
-      <div class="container">
+      <div class="container" style="background-color: black">
         <div class="row">
           <div class="col-sm-4 col-md-3 col-xs-8"> 
             <!-- Header Logo -->
-            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/logo.png" width="120"></a> </div>
+            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/logo.png" width="140"></a> </div>
             <!-- End Header Logo --> 
           </div>
           <div class="col-md-9 col-sm-8 col-xs-4">
@@ -107,32 +107,32 @@
               <ul class="hidden-xs">
                 <li class="mt-root demo_custom_link_cms">
                   <div class="mt-root-item"><a href="index.html">
-                    <div class="title title_font"><span class="title-text">Home</span></div>
+                    <div class="title title_font"><span class="title-text" style="color: white">Home</span></div>
                     </a></div>
                   
                 </li>
                
                    <li class="mt-root">
                   <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">Women</span></div>
+                    <div class="title title_font"><span class="title-text" style="color: white">Women</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
                   <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">Men</span></div>
+                    <div class="title title_font"><span class="title-text" style="color: white">Men</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
                   <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">Kids</span></div>
+                    <div class="title title_font"><span class="title-text" style="color: white">Kids</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
                   <div class="mt-root-item"><a href="index.html#">
-                    <div class="title title_font"><span class="title-text">Other Crafts</span></div>
+                    <div class="title title_font"><span class="title-text" style="color: white">Other Crafts</span></div>
                     </a>
                   </div>
                   </li>
@@ -146,7 +146,7 @@
                   <div class="mini-cart">
                     <div data-toggle="dropdown" data-hover="dropdown" class="basket dropdown-toggle"> <a href="index.html#">
                       <div class="cart-icon"><i class="fa fa-shopping-cart" style="padding:10px;"></i></div>
-                      <div class="shoppingcart-inner hidden-xs hidden-sm"><span class="cart-title">Shopping Cart</span> <span class="cart-total">3 Item(s): Kes 5200.00</span></div>
+                      <div class="shoppingcart-inner hidden-xs hidden-sm"><span class="cart-title" style="color: white">Shopping Cart</span> <span class="cart-total" style="color: white">3 Item(s): Kes 5200.00</span></div>
                       </a></div>
                     <div>
                       <div class="top-cart-content">

@@ -1029,7 +1029,7 @@ header .logo a img {
 .cart-icon, .shoppingcart-inner {
 	
 	
-	padding-top: 10px
+	padding-top: 15px
 }
 .mini-cart .basket a .fa-shopping-cart:before {
 	font-size: 16px;
@@ -7894,7 +7894,7 @@ to {
 	font-weight: bold;
 }
 .container {
-	width: 1200px;
+	width: 100%;
 }
 .mmPushBody .fa-align-justify:before {
 	content: "\f039";

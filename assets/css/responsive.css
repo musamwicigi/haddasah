@@ -791,7 +791,7 @@ footer .social h3 {
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
 .container {
-	width: 970px;
+	width: 100%;
 }
 .headerlinkmenu .links {
 	margin-right: 6px;
