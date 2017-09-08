@@ -1,6 +1,4 @@
 
-
-  <!-- Main Container -->
   <div class="main-container col1-layout">
     <div class="container">
       <div class="row">
@@ -10,31 +8,32 @@
               <h2> Hadassah Shop</h2>
             </div>
             <hr/>
-            <div class="col-md-7"></div>
-            <div class="col-md-5" style="text-align: right">
-            <a href="#"><div class="col-md-2"><strong> Women </strong></div></a>
-            <a href="#"><div class="col-md-2"><strong> Men </strong></div></a>
-            <a href="#"><div class="col-md-2"><strong> Children </strong></div></a>
-            <a href="#"><div class="col-md-2"><strong> Children </strong></div></a>
-            <a href="#"><div class="col-md-2"><strong> Children</strong></div></a>
+            <div class="col-md-8"></div>
+            <div class="col-md-4" style="text-align: right">
+            <div class="short-by page">
+                  <label>Select:</label>
+                  <select>
+                    <option selected="selected">Shop</option>
+                    <option>Men</option>
+                    <option>Women</option>
+                    <option>Children</option>
+                  </select>
+                </div>
+
+
 
            </div>
-           <hr/>
-            
             <div class="product-grid-area">
               <ul class="products-grid">
                 <li class="item col-lg-3 col-md-4 col-sm-6 col-xs-6 ">
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumbnail">
-                       
-                        
                         <div class="pr-img-area"> <a title="Ipsums Dolors Untra" href="single_product.html">
                           <figure>  <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product55.jpg" alt=""></figure>
                           </a>
                           <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
                         </div>
-                       
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
