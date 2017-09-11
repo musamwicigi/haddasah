@@ -2,7 +2,7 @@
   <footer style="color: white"> 
     
 
-    <div class="container" style="padding-top: 60px;">
+    <div class="container" style="padding: 30px 60;">
       <div class="row" style="text-align: left">
         <div class="col-sm-2">
           <div class="footer-links">

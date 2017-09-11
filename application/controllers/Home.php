@@ -11,9 +11,9 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/home';
 		$this->load->view('fe/includes/template',$data);
 	}
-	function quickview(){
+	function men(){
 	
-		$data['main_content'] = 'fe/quick_view';
+		$data['main_content'] = 'fe/men';
 		$this->load->view('fe/includes/template',$data);
 	}
 	function shop(){
@@ -26,31 +26,37 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/about';
 		$this->load->view('fe/includes/template',$data);
 	}
+
+	function kidzz(){
+	
+		$data['main_content'] = 'fe/kidzz';
+		$this->load->view('fe/includes/template',$data);
+	}
+	function product(){
+	
+		$data['main_content'] = 'fe/product';
+		$this->load->view('fe/includes/template',$data);
+	}
 	function contact(){
 	
 		$data['main_content'] = 'fe/contact';
 		$this->load->view('fe/includes/template',$data);
 	}
-	public function insert_buyer_detail()
-	{ 
-		$buyer_id = url_title($this->input->post('buyer_product'),'-',TRUE);		   	
-		$add_buyer_details = array(
-        'buyer_product'=>$this->input->post('buyer_product'),
-        'buyer_first_name'=>$this->input->post('buyer_first_name'),
-        'buyer_last_name'=>$this->input->post('buyer_last_name'),
-        'buyer_phone_number'=>$this->input->post('buyer_phone_number'),
-        'buyer_email'=>$this->input->post('buyer_email'),
-        'buyer_id' =>$buyer_id         
-         );
-         $q = $this->piddiesmart->add_buyer_details($buyers);         	
-          
-		if ($q['res'] == true){
-			$resp = array('status' => 'SUCCESS','message' => $q['dt']);
-		}else{
-			$resp = array('status' => 'ERR','message' => $q['dt']);
-		}
-		echo json_encode($resp);
+	function crafts(){
+	
+		$data['main_content'] = 'fe/crafts';
+		$this->load->view('fe/includes/template',$data);
 	}
-
+	function blog(){
+	
+		$data['main_content'] = 'fe/blog';
+		$this->load->view('fe/includes/template',$data);
+	}
+	function single_blog(){
+	
+		$data['main_content'] = 'fe/single_blog';
+		$this->load->view('fe/includes/template',$data);
+	}
+	
 	
 }

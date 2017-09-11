@@ -290,13 +290,13 @@
     </form>
   </div>
   <ul class="mobile-menu" style="text-align:left;" >
-    <li><a href="#">Home</a></li>
+    <li><a href="home">Home</a></li>
     <li><a href="shop">shop</a></li>
-    <li><a href="#">Men</a></li>
-    <li><a href="#">Kids</a></li>
-    <li><a href="#">Other Crafts</a></li>
-    <li><a href="#">About US</a></li>
+    <li><a href="men">Men</a></li>
+    <li><a href="kidzz">Kidzz</a></li>
+    <li><a href="crafts">Other Crafts</a></li>
     <li><a href="#">Blog</a></li>
+     <li><a href="#">About US</a></li>
     <li><a href="#">Contact us</a></li>
   </ul>  
 </div>
@@ -313,7 +313,7 @@
             <div class="mtmegamenu">
               <ul class="hidden-xs">
                 <li class="mt-root demo_custom_link_cms">
-                  <div class="mt-root-item"><a href="#">
+                  <div class="mt-root-item"><a href="home">
                     <div class="title title_font"><span class="title-text" style="color: white">Home</span></div>
                     </a></div>
                   
@@ -326,20 +326,26 @@
                   </div>
                   </li>
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="#">
+                  <div class="mt-root-item"><a href="men">
                     <div class="title title_font"><span class="title-text" style="color: white">Men</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="#">
-                    <div class="title title_font"><span class="title-text" style="color: white">Kids</span></div>
+                  <div class="mt-root-item"><a href="kidzz">
+                    <div class="title title_font"><span class="title-text" style="color: white">Kidzz</span></div>
                     </a>
                   </div>
                   </li>
                    <li class="mt-root">
-                  <div class="mt-root-item"><a href="#">
+                  <div class="mt-root-item"><a href="crafts">
                     <div class="title title_font"><span class="title-text" style="color: white">Other Crafts</span></div>
+                    </a>
+                  </div>
+                  </li>
+                  <li class="mt-root">
+                  <div class="mt-root-item"><a href="blog">
+                    <div class="title title_font"><span class="title-text" style="color: white">Blog</span></div>
                     </a>
                   </div>
                   </li>
