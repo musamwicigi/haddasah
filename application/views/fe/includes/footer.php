@@ -101,7 +101,7 @@
   
 </div>
 
-
+<!-- jquery js --> 
 <script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.min.js"></script> 
 
 <!-- bootstrap js --> 
@@ -208,7 +208,7 @@
               }
             },
             gridwidth:1920,
-            gridheight:750,
+            gridheight:650,
             lazyType:"none",
             shadow:0,
             spinner:"spinner0",
@@ -233,7 +233,5 @@
         }
       }); /*ready*/
     </script>
-</body>
-
 <!-- Mirrored from htmlsmart.justthemevalley.com/version2/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 23 Aug 2017 10:29:14 GMT -->
 </html>

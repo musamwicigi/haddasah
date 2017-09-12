@@ -68,7 +68,7 @@
                 <div class="blog-image"> <a href="single_post.html"> <img src="<?php echo base_url();?>assets/photo/images/blog-img2.jpg" alt="Blog"> </a> <span class="blog-date"> <a href="single_post.html#"> <span class="month-date"><small>15</small>Mar</span> </a> </span> </div>
                 <div class="blog-content">
                   <div class="title-desc"> <a href="single_post.html">
-                    <h4>Lorem ipsum dolor sit amet</h4>
+                    <h4>Hadassah handmade</h4>
                     </a>
                     <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
                   </div>
@@ -94,7 +94,7 @@
                 <div class="blog-image"> <a href="single_post.html"> <img src="<?php echo base_url();?>assets/photo/images/blog-img4.jpg" alt="Blog"> </a> <span class="blog-date"> <a href="single_post.html#"> <span class="month-date"><small>08</small>Jun</span> </a> </span> </div>
                 <div class="blog-content">
                   <div class="title-desc"> <a href="single_post.html">
-                    <h4>Lorem ipsum dolor sit amet</h4>
+                    <h4>Hadassah handmade</h4>
                     </a>
                     <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
                   </div>
@@ -148,21 +148,21 @@
                     <li>
                       <div class="post-thumb"> <a href="single_post.html#"><img src="<?php echo base_url();?>assets/photo/images/blog-img7.jpg" alt="Blog"></a> </div>
                       <div class="post-info">
-                        <h5 class="entry_title"><a href="single_post.html#">Lorem ipsum dolor</a></h5>
+                        <h5 class="entry_title"><a href="single_post.html#">Hadassah Beads </a></h5>
                         <div class="post-meta"> <span class="date"><i class="fa fa-calendar"></i> 2014-08-05</span> <span class="comment-count"> <i class="fa fa-comment-o"></i> 3 </span> </div>
                       </div>
                     </li>
                     <li>
                       <div class="post-thumb"> <a href="single_post.html#"><img src="<?php echo base_url();?>assets/photo/images/blog-img2.jpg" alt="Blog"></a> </div>
                       <div class="post-info">
-                        <h5 class="entry_title"><a href="single_post.html#">Lorem ipsum dolor</a></h5>
+                        <h5 class="entry_title"><a href="single_post.html#">Hadassah Beads</a></h5>
                         <div class="post-meta"> <span class="date"><i class="fa fa-calendar"></i> 2014-08-05</span> <span class="comment-count"> <i class="fa fa-comment-o"></i> 3 </span> </div>
                       </div>
                     </li>
                     <li>
                       <div class="post-thumb"> <a href="single_post.html#"><img src="<?php echo base_url();?>assets/photo/images/blog-img3.jpg" alt="Blog"></a> </div>
                       <div class="post-info">
-                        <h5 class="entry_title"><a href="single_post.html#">Lorem ipsum dolor</a></h5>
+                        <h5 class="entry_title"><a href="single_post.html#">Hadassah Beads</a></h5>
                         <div class="post-meta"> <span class="date"><i class="fa fa-calendar"></i> 2014-08-05</span> <span class="comment-count"> <i class="fa fa-comment-o"></i> 3 </span> </div>
                       </div>
                     </li>
@@ -191,19 +191,19 @@
                 <div class="item active"> <img src="<?php echo base_url();?>assets/photo/images/add-slide1.jpg" alt="slide1">
                   <div class="carousel-caption">
                     <h3><a href="single_product.html" title=" Sample Product">Sale Up to 50% off</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Hadassah handmade, consectetur adipiscing elit.</p>
                     <a href="single_post.html#" class="info">shopping Now</a> </div>
                 </div>
                 <div class="item"> <img src="<?php echo base_url();?>assets/photo/images/add-slide2.jpg" alt="slide2">
                   <div class="carousel-caption">
                     <h3><a href="single_product.html" title=" Sample Product">Smartwatch Collection</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Hadassah handmade, consectetur adipiscing elit.</p>
                     <a href="single_post.html#" class="info">All Collection</a> </div>
                 </div>
                 <div class="item"> <img src="<?php echo base_url();?>assets/photo/images/add-slide3.jpg" alt="slide3">
                   <div class="carousel-caption">
                     <h3><a href="single_product.html" title=" Sample Product">Summer Sale</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Hadassah handmade, consectetur adipiscing elit.</p>
                   </div>
                 </div>
               </div>

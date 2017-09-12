@@ -15,26 +15,8 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/logo.png">
 
-<!-- CSS Style -->
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/animate.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/simple-line-icons.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/pe-icon-7-stroke.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/meanmenu.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.carousel.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.transitions.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/nivo-slider.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-ui.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jtv-mobile-menu.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/blog.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/slick.min.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
-<link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.css">
-
-
+<link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 
 <body class="cms-index-index cms-home-page">
@@ -291,7 +273,7 @@
   </div>
   <ul class="mobile-menu" style="text-align:left;" >
     <li><a href="home">Home</a></li>
-    <li><a href="shop">shop</a></li>
+    <li><a href="shop">Women</a></li>
     <li><a href="men">Men</a></li>
     <li><a href="kidzz">Kidzz</a></li>
     <li><a href="crafts">Other Crafts</a></li>
@@ -321,7 +303,7 @@
                
                    <li class="mt-root">
                   <div class="mt-root-item"><a href="shop">
-                    <div class="title title_font"><span class="title-text" style="color: white">Shop</span></div>
+                    <div class="title title_font"><span class="title-text" style="color: white">Women</span></div>
                     </a>
                   </div>
                   </li>
@@ -391,6 +373,8 @@
                   </div>
                 </div>
               </div>
+          
+            </div></div>
           
             </div>
           </div>

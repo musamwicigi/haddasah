@@ -147,9 +147,9 @@
               <div class="content">
                 <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="Green Coppersmith" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product.jpg" alt=""></figure>
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product27.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product27.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -171,7 +171,7 @@
                   <div class="product-thumb has-hover-img"> <a title="Nutshell Earing" href="product">
                     <figure> <img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product2.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -195,7 +195,7 @@
                   <div class="product-thumb has-hover-img"> <a title="Medel Necklace" href="product">
                     <figure> <img src="<?php echo base_url();?>assets/images/products/product3.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product3.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -215,9 +215,9 @@
 
                  <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="pearl necklace" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product4.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product4.jpg" alt=""></figure>
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product10.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product10.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -239,9 +239,9 @@
               <div class="content">
                 <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="pumpkin necklace" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product5.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product5.jpg" alt=""></figure>
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product12.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product12.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -261,9 +261,9 @@
 
                  <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product6.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product6.jpg" alt=""></figure>
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product15.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product15.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -285,9 +285,9 @@
               <div class="content">
                 <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product7.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product7.jpg" alt=""></figure>
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product22.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product22.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="#"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -307,9 +307,9 @@
 
                  <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""></figure>
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product23.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product23.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -329,124 +329,124 @@
                   <div class="product-item">
               <div class="content">
                 <div class="item-inner">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product33.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product33.jpg" alt=""></figure>
+                    </a>
+                    
+                  </div>
+                 <div class="item-info">
+                    <div class="info-inner">
+                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
+                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
+                      </div>
+                      <div class="item-content">
+                        <div class="item-price">
+                         
+                        </div>
+                       
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+
+                 <div class="item-inner">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product21.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product21.jpg" alt=""></figure>
+                    </a>
+                    
+                  </div>
+                 <div class="item-info">
+                    <div class="info-inner">
+                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
+                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
+                      </div>
+                      <div class="item-content">
+                        <div class="item-price">
+                         
+                        </div>
+                       
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+                  <div class="product-item">
+              <div class="content">
+                <div class="item-inner">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product20.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product20.jpg" alt=""></figure>
+                    </a>
+                    
+                  </div>
+                 <div class="item-info">
+                    <div class="info-inner">
+                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
+                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
+                      </div>
+                      <div class="item-content">
+                        <div class="item-price">
+                         
+                        </div>
+                       
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+
+                 <div class="item-inner">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product32.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product32.jpg" alt=""></figure>
+                    </a>
+                    
+                  </div>
+                 <div class="item-info">
+                    <div class="info-inner">
+                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
+                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
+                      </div>
+                      <div class="item-content">
+                        <div class="item-price">
+                         
+                        </div>
+                       
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+                  <div class="product-item">
+              <div class="content">
+                <div class="item-inner">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
+                    <figure> <img src="<?php echo base_url();?>assets/images/products/product29.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product29.jpg" alt=""></figure>
+                    </a>
+                    
+                  </div>
+                 <div class="item-info">
+                    <div class="info-inner">
+                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
+                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
+                      </div>
+                      <div class="item-content">
+                        <div class="item-price">
+                         
+                        </div>
+                       
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+
+                 <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
                     <figure> <img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product1.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                 <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
-                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                         
-                        </div>
-                       
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                </div>
-
-                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product10.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product10.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                 <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
-                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                         
-                        </div>
-                       
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-                  <div class="product-item">
-              <div class="content">
-                <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                 <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
-                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                         
-                        </div>
-                       
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                </div>
-
-                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product1.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                 <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
-                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                         
-                        </div>
-                       
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-                  <div class="product-item">
-              <div class="content">
-                <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                 <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title" style="padding-top: 20px; padding-bottom: 20px"">
-                        <h3><a title="#" href="product">Red Sweatpant Suit <span class="price" style="float: right"> Kes 4800.00 </span></a></h3>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                         
-                        </div>
-                       
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                </div>
-
-                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="product">
-                    <figure> <img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product1.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="product" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
+                    
                   </div>
                  <div class="item-info">
                     <div class="info-inner">
@@ -524,7 +524,7 @@
               <article class="entry"> 
                 <div class="row">
                   <div class="col-sm-12">
-                    <div class="entry-thumb"> <a href="single_post.html"> <figure><img src="<?php echo base_url();?>assets/images/products/product17.jpg" alt="Blog"></figure> </a> <span class="blog-date"> <a href="blog.html#"> <span class="month-date"><small>08</small>Jun</span> </a> </span></div>
+                    <div class="entry-thumb"> <a href="single_post.html"> <figure><img src="<?php echo base_url();?>assets/images/products/product5.jpg" alt="Blog"></figure> </a> <span class="blog-date"> <a href="blog.html#"> <span class="month-date"><small>08</small>Jun</span> </a> </span></div>
                   </div>
                   <div class="col-sm-12">
                 
@@ -541,7 +541,7 @@
               <article class="entry">
                 <div class="row">
                   <div class="col-sm-12">
-                    <div class="entry-thumb"> <a href="single_post.html"> <figure><img src="<?php echo base_url();?>assets/images/products/product17.jpg" alt="Blog"></figure>  </a><span class="blog-date"> <a href="blog.html#"> <span class="month-date"><small>12</small>Jun</span> </a> </span> </div>
+                    <div class="entry-thumb"> <a href="single_post.html"> <figure><img src="<?php echo base_url();?>assets/images/products/product3.jpg" alt="Blog"></figure>  </a><span class="blog-date"> <a href="blog.html#"> <span class="month-date"><small>12</small>Jun</span> </a> </span> </div>
                   </div>
                   <div class="col-sm-12">
                 
@@ -586,7 +586,7 @@
              <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
                    <h4 style="padding-top: 20px; color: #83bbe8">@hadassah</h4></a>
                    
-                        <div style="height: 300px; overflow: scroll;"><a class="twitter-timeline" href="https://twitter.com/tgnfi" data-tweet-limit="4">
+                        <div style="height: 480px; overflow: scroll;"><a class="twitter-timeline" href="https://twitter.com/tgnfi" data-tweet-limit="6">
                         Tweets by @tgnfi
                         </a> </div>
                     <hr/>
