@@ -23,18 +23,18 @@
                 <div class="slider-items slider-width-col1 owl-carousel owl-theme"> 
                   
                   <!-- Item -->
-                  <div class="item"> <a href="shop_grid.html#x"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img1.jpg"></a>
+                  <div class="item"> <a href="product"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img1.jpg"></a>
                     <div class="inner-info">
                       <div class="cat-img-title"> <span>Up To 20% Off Decor</span>
                         <h2 class="cat-heading"><strong>Vintage Casual</strong></h2>
                         <p>Hadassah Beads and handmade items......</p>
-                        <a class="info" href="shop_grid.html#">Shop Now</a> </div>
+                        <a class="info" href="product">Shop Now</a> </div>
                     </div>
                   </div>
                   <!-- End Item --> 
                   
                   <!-- Item -->
-                  <div class="item"> <a href="shop_grid.html#x"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img2.jpg"></a> </div>
+                  <div class="item"> <a href="product"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img2.jpg"></a> </div>
                   
                   <!-- End Item --> 
                   
@@ -49,7 +49,7 @@
             <div class="toolbar">
               <div class="view-mode">
                 <ul>
-                  <li class="active"> <a href="shop_grid.html"> <i class="fa fa-th"></i> </a> </li>
+                  <li class="active"> <a href="product"> <i class="fa fa-th"></i> </a> </li>
                   <li> <a href="shop_list.html"> <i class="fa fa-th-list"></i> </a> </li>
                 </ul>
               </div>
@@ -87,7 +87,7 @@
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -106,12 +106,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product2.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product2.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product2.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product2.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -133,12 +133,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product3.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product3.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product3.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product3.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -162,12 +162,12 @@
                       <div class="icon-sale-label sale-left">Sale</div>
                       <div class="icon-new-label new-right">New</div>
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product4.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product4.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product4.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product4.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -187,12 +187,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-new-label new-left">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product5.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product5.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product5.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product5.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -214,12 +214,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product6.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product6.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product6.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product6.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -241,12 +241,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product7.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product7.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product7.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product7.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -268,12 +268,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -293,12 +293,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-new-label new-right">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product19.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product19.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product19.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product19.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -321,12 +321,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-sale-label sale-left">Sale</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product32.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product32.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product32.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product32.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -349,12 +349,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-new-label new-right">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product33.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product33.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product33.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product33.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -374,12 +374,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-new-label new-right">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product34.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product34.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product34.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product34.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -400,12 +400,12 @@
                       <div class="product-thumb has-hover-img">
                         <div class="icon-sale-label sale-left">Sale</div>
                         <div class="icon-new-label new-right">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product12.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product12.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product12.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product12.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -424,12 +424,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product13.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product13.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product13.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product13.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -451,12 +451,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product18.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product18.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product18.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product18.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -480,12 +480,12 @@
                       <div class="product-thumb has-hover-img">
                         <div class="icon-sale-label sale-left">Sale</div>
                         <div class="icon-new-label new-right">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product15.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product15.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product15.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product15.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -504,12 +504,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product16.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product16.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product16.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product16.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -531,12 +531,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product17.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product17.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product17.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product17.jpg" alt=""> </a></figure>
                         <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                             <div class="item-price">
@@ -558,10 +558,10 @@
             </div>
             <div class="pagination-area ">
               <ul>
-                <li><a class="active" href="shop_grid.html#">1</a></li>
-                <li><a href="shop_grid.html#">2</a></li>
-                <li><a href="shop_grid.html#">3</a></li>
-                <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i></a></li>
+                <li><a class="active" href="product">1</a></li>
+                <li><a href="product">2</a></li>
+                <li><a href="product">3</a></li>
+                <li><a href="product"><i class="fa fa-angle-right"></i></a></li>
               </ul>
             </div>
           </div>
@@ -572,48 +572,48 @@
               <h3>Categories</h3>
             </div>
             <ul class="product-categories">
-              <li class="cat-item current-cat cat-parent"><a href= "shop_grid.html">Women</a>
+              <li class="cat-item current-cat cat-parent"><a href= "product">Women</a>
                 <ul class="children">
-                  <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Accessories</a>
+                  <li class="cat-item cat-parent"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Accessories</a>
                     <ul class="children">
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Dresses</a></li>
-                      <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Handbags</a>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Dresses</a></li>
+                      <li class="cat-item cat-parent"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Handbags</a>
                         <ul style="display: none;" class="children">
-                          <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Beaded Handbags</a></li>
-                          <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Sling bag</a></li>
+                          <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Beaded Handbags</a></li>
+                          <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Sling bag</a></li>
                         </ul>
                       </li>
                     </ul>
                   </li>
-                  <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Handbags</a>
+                  <li class="cat-item cat-parent"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Handbags</a>
                     <ul class="children">
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; backpack</a></li>
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Beaded Handbags</a></li>
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Fabric Handbags</a></li>
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Sling bag</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; backpack</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Beaded Handbags</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Fabric Handbags</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Sling bag</a></li>
                     </ul>
                   </li>
-                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Jewellery</a> </li>
-                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Swimwear</a> </li>
+                  <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Jewellery</a> </li>
+                  <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Swimwear</a> </li>
                 </ul>
               </li>
-              <li class="cat-item cat-parent"><a href="shop_grid.html">Men</a>
+              <li class="cat-item cat-parent"><a href="product">Men</a>
                 <ul class="children">
-                  <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Dresses</a>
+                  <li class="cat-item cat-parent"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Dresses</a>
                     <ul class="children">
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Casual</a></li>
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Designer</a></li>
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Evening</a></li>
-                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Hoodies</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Casual</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Designer</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Evening</a></li>
+                      <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Hoodies</a></li>
                     </ul>
                   </li>
-                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Jackets</a> </li>
-                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Shoes</a> </li>
+                  <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Jackets</a> </li>
+                  <li class="cat-item"><a href="product"><i class="fa fa-angle-right"></i>&nbsp; Shoes</a> </li>
                 </ul>
               </li>
-              <li class="cat-item"><a href="shop_grid.html">Electronics</a></li>
-              <li class="cat-item"><a href="shop_grid.html">Furniture</a></li>
-              <li class="cat-item"><a href="shop_grid.html">KItchen</a></li>
+              <li class="cat-item"><a href="product">Electronics</a></li>
+              <li class="cat-item"><a href="product">Furniture</a></li>
+              <li class="cat-item"><a href="product">KItchen</a></li>
             </ul>
           </div>
           <div class="block shop-by-side">
@@ -650,11 +650,11 @@
                 <h2 class="saider-bar-title">Bead Types</h2>
                 <div class="saide-bar-menu">
                   <ul>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Pearl</a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Bugle beads </a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Crystal Beads </a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Chatons </a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Faceted Beads </a></li>
+                    <li><a href="product"><i class="fa fa-angle-right"></i> Pearl</a></li>
+                    <li><a href="product"><i class="fa fa-angle-right"></i> Bugle beads </a></li>
+                    <li><a href="product"><i class="fa fa-angle-right"></i> Crystal Beads </a></li>
+                    <li><a href="product"><i class="fa fa-angle-right"></i> Chatons </a></li>
+                    <li><a href="product"><i class="fa fa-angle-right"></i> Faceted Beads </a></li>
                   </ul>
                 </div>
               </div>
@@ -662,12 +662,12 @@
                 <h2 class="saider-bar-title">Color</h2>
                 <div class="color">
                   <ul>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
+                    <li><a href="product"></a></li>
+                    <li><a href="product"></a></li>
+                    <li><a href="product"></a></li>
+                    <li><a href="product"></a></li>
+                    <li><a href="product"></a></li>
+                    <li><a href="product"></a></li>
                   </ul>
                 </div>
               </div>
@@ -675,11 +675,11 @@
                 <h2 class="saider-bar-title">Size</h2>
                 <div class="size">
                   <ul>
-                    <li><a href="shop_grid.html#">S</a></li>
-                    <li><a href="shop_grid.html#">L</a></li>
-                    <li><a href="shop_grid.html#">M</a></li>
-                    <li><a href="shop_grid.html#">XL</a></li>
-                    <li><a href="shop_grid.html#">XXL</a></li>
+                    <li><a href="product">S</a></li>
+                    <li><a href="product">L</a></li>
+                    <li><a href="product">M</a></li>
+                    <li><a href="product">XL</a></li>
+                    <li><a href="product">XXL</a></li>
                   </ul>
                 </div>
               </div>
@@ -719,13 +719,13 @@
               <ul>
                 <li class="item"> <a href="shopping_cart.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product7.jpg" alt="Sample Product "></a>
                   <div class="product-details">
-                    <div class="access"> <a href="shop_grid.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
+                    <div class="access"> <a href="product" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
                     <p class="product-name"> <a href="shopping_cart.html">Hadassah Beads and handmade items...</a> </p>
                     <strong>1</strong> x <span class="price">Kes 19.99</span> </div>
                 </li>
-                <li class="item last"> <a href="shop_grid.html#" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product8.jpg" alt="Sample Product"></a>
+                <li class="item last"> <a href="product" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product8.jpg" alt="Sample Product"></a>
                   <div class="product-details">
-                    <div class="access"> <a href="shop_grid.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
+                    <div class="access"> <a href="product" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
                     <p class="product-name"> <a href="shopping_cart.html">Hadassah Beads and handmade items...</a> </p>
                     <strong>1</strong> x <span class="price">Kes 8.00</span> 
                     <!--access clearfix--> 
@@ -749,23 +749,59 @@
             <div class="block-content">
               <ul>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="product" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Hadassah Beads and handmade items...</a> </p>
+                    <p class="product-name"> <a href="product">Hadassah Beads and handmade items...</a> </p>
                     <span class="price">Kes 19.99</span>
                     <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
                 </li>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="product" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Hadassah Beads and handmade items...</a> </p>
+                    <p class="product-name"> <a href="product">Hadassah Beads and handmade items...</a> </p>
                     <span class="price">Kes 89.99</span>
                     <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
                 </li>
               </ul> 
           </div>
+           <!-- Banner -->
+          <div class="single-img-add sidebar-add-slider">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> 
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              </ol>
+              
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+                <div class="item active"> <img src="<?php echo base_url();?>assets/photo/images/add-slide1.jpg" alt="slide1">
+                  <div class="carousel-caption">
+                    <h3><a href="product" title=" Sample Product">Sale Up to 50% off</a></h3>
+                    <p>I will have too many projects to update on..</p>
+                    <a href="blog_left_sidebar.html#" class="info">shopping Now</a> </div>
+                </div>
+                <div class="item"> <img src="<?php echo base_url();?>assets/photo/images/add-slide2.jpg" alt="slide2">
+                  <div class="carousel-caption">
+                    <h3><a href="product" title=" Sample Product">Hadassah beaders</a></h3>
+                    <p>I will have too many projects to update on...</p>
+                    <a href="blog_left_sidebar.html#" class="info">All Collection</a> </div>
+                </div>
+                <div class="item"> <img src="<?php echo base_url();?>assets/photo/images/add-slide3.jpg" alt="slide3">
+                  <div class="carousel-caption">
+                    <h3><a href="product" title=" Sample Product">Summer Sale</a></h3>
+                    <p>I will have too many projects to update on...</p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Controls --> 
+              <a class="left carousel-control" href="blog_left_sidebar.html#carousel-example-generic" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="blog_left_sidebar.html#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+          </div>
+          <!-- ./Banner --> 
         </aside>
       </div>
     </div>

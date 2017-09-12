@@ -23,7 +23,7 @@
                 <div class="slider-items slider-width-col1 owl-carousel owl-theme"> 
                   
                   <!-- Item -->
-                  <div class="item"> <a href="shop_grid.html#x"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img1.jpg"></a>
+                  <div class="item"> <a href="product"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img1.jpg"></a>
                     <div class="inner-info">
                       <div class="cat-img-title"> <span>Up To 20% Off Decor</span>
                         <h2 class="cat-heading"><strong>Vintage Casual</strong></h2>
@@ -34,7 +34,7 @@
                   <!-- End Item --> 
                   
                   <!-- Item -->
-                  <div class="item"> <a href="shop_grid.html#x"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img2.jpg"></a> </div>
+                  <div class="item"> <a href="product"><img alt="" src="<?php echo base_url();?>assets/photo/images/cat-slider-img2.jpg"></a> </div>
                   
                   <!-- End Item --> 
                   
@@ -87,7 +87,7 @@
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             
                             <div class="item-price">
@@ -106,12 +106,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product23.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product23.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product23.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product23.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                            
                             <div class="item-price">
@@ -133,12 +133,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product24.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product24.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product24.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product24.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                            
                             <div class="item-price">
@@ -162,12 +162,12 @@
                       <div class="icon-sale-label sale-left">Sale</div>
                       <div class="icon-new-label new-right">New</div>
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product21.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product21.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product21.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product21.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                            
                             <div class="item-price">
@@ -187,12 +187,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-new-label new-left">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product20.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product20.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product20.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product20.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             
                             <div class="item-price">
@@ -214,12 +214,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product29.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product29.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product29.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product29.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                            
                             <div class="item-price">
@@ -241,12 +241,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product30.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product30.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product30.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product30.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                            
                             <div class="item-price">
@@ -268,12 +268,12 @@
                   <div class="product-item">
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product31.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product31.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product31.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product31.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                            
                             <div class="item-price">
@@ -293,12 +293,12 @@
                     <div class="item-inner">
                       <div class="product-thumb has-hover-img">
                         <div class="icon-new-label new-right">New</div>
-                        <figure> <a title="Hadassah Handmade" href="single_product.html"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> </a></figure>
+                        <figure> <a title="Hadassah Handmade" href="product"> <img class="first-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/product8.jpg" alt=""> </a></figure>
                         
                       </div>
                       <div class="item-info">
                         <div class="info-inner">
-                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="single_product.html">Hadassah Handmade </a></h4> </div>
+                          <div class="item-title"> <h4><a title="Hadassah Handmade" href="product">Hadassah Handmade </a></h4> </div>
                           <div class="item-content">
                             
                             <div class="item-price">
@@ -510,17 +510,17 @@
             <div class="block-content">
               <ul>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="product" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product1.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Hadassah Beads and handmade items...</a> </p>
+                    <p class="product-name"> <a href="product">Hadassah Beads and handmade items...</a> </p>
                     <span class="price">Kes 19.99</span>
                    
                   </div>
                 </li>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="product" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/products/product2.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Hadassah Beads and handmade items...</a> </p>
+                    <p class="product-name"> <a href="product">Hadassah Beads and handmade items...</a> </p>
                     <span class="price">Kes 89.99</span>
                     <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
