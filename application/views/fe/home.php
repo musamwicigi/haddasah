@@ -13,7 +13,7 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-17" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600" data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
                   <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/slider/hadassah7.png" width="100%" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <img src="<?php echo base_url();?>assets/images/slider/slider1.jpg" width="100%" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
                   <!-- LAYERS --> 
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="-90" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
@@ -35,7 +35,7 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-14" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-7" data-description=""> 
                   <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/slider/hadassah8.png"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <img src="<?php echo base_url();?>assets/images/slider/slider2.jpg" "  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
                     <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Lookbook 2016 </p> -->
@@ -61,7 +61,7 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-15" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
                   <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/slider/hadassah1.png"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <img src="<?php echo base_url();?>assets/images/slider/slider3.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
                   <!-- LAYERS --> 
                   
                   <!-- LAYERS --> 
@@ -87,6 +87,63 @@
                  
                 </li>
                 <!-- SLIDE  -->
+                 <!-- SLIDE  -->
+                <li data-index="rs-15" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
+                  <!-- MAIN IMAGE --> 
+                  <img src="<?php echo base_url();?>assets/images/slider/slider4.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <!-- LAYERS --> 
+                  
+                  <!-- LAYERS --> 
+                  <!-- LAYER NR. 1 -->
+                  <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Luxury Underwear </p> -->
+                  </div>
+                  
+                  <!-- LAYER NR. 3 -->
+                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-80" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <!-- <h1 class="text-center" style="font-size: 65px; color: #fff; font-weight: bold; text-transform: uppercase;"> Season sale </h1> -->
+                  </div>
+                  <!-- LAYER NR. 4 -->
+                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-20" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <!-- <h2 class="text-center" style="font-size: 50px; color: #fff; font-weight: bold; text-transform: uppercase;">75% off</h2> -->
+                  </div>
+                  
+                  <!-- LAYER NR. 6 -->
+                  <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="50" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
+                   <!--  <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;"> Sed lacinia urna a tincidunt mattis tortor neque<br>
+                      adipiscing diam cursus </p> -->
+                  </div>
+                 
+                </li>
+
+                 <!-- SLIDE  -->
+                <li data-index="rs-15" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
+                  <!-- MAIN IMAGE --> 
+                  <img src="<?php echo base_url();?>assets/images/slider/slider5.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <!-- LAYERS --> 
+                  
+                  <!-- LAYERS --> 
+                  <!-- LAYER NR. 1 -->
+                  <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Luxury Underwear </p> -->
+                  </div>
+                  
+                  <!-- LAYER NR. 3 -->
+                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-80" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <!-- <h1 class="text-center" style="font-size: 65px; color: #fff; font-weight: bold; text-transform: uppercase;"> Season sale </h1> -->
+                  </div>
+                  <!-- LAYER NR. 4 -->
+                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-20" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <!-- <h2 class="text-center" style="font-size: 50px; color: #fff; font-weight: bold; text-transform: uppercase;">75% off</h2> -->
+                  </div>
+                  
+                  <!-- LAYER NR. 6 -->
+                  <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="50" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
+                   <!--  <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;"> Sed lacinia urna a tincidunt mattis tortor neque<br>
+                      adipiscing diam cursus </p> -->
+                  </div>
+                 
+                </li>
               </ul>
               <div class="tp-bannertimer" style="visibility: hidden !important;"></div>
             </div>
